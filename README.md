@@ -1,7 +1,7 @@
 # Covid-tracker made with vue.js by Isaak M.
 
 See the result here:
-[https://dev6239.d3vvzapk6tj7c2.amplifyapp.com/](url)
+https://dev6239.d3vvzapk6tj7c2.amplifyapp.com/
 
 ## Project setup
 ```
