@@ -1,4 +1,4 @@
-# covid-tracker
+# covid-tracker made with vue.js by Isaak M.
 
 ## Project setup
 ```
